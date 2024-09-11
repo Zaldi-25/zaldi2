@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>cung cung alam</title>
+  </head>
+  <body style="background-color: aqua;">
+    <h1 style="color: red"> aku suka minum susu</h1>
+    <br />
+    
+    <p>aku adalah seorang <b>manusia</b> yang mencintai alam</p>
+    <ul>
+        <li>bunga</li>
+        <li>pohon</li>
+        <ul>
+            <li>flower</li>
+        </ul>
+    </ul>
+    <table>
+        <tr bgcolor="red">
+            <th width="100"> tab</th>
+            <th width="100"> monday</th>
+            <th width="100"> tuesday</th>
+        </tr>
+        <tr bgcolor="pink" align="center">
+            <td>close</td>
+            <td>9-6</td>
+            <td>2-6</td>
+        </tr>
+    </table>
+    <p><mark>daftar hewan kesukaan ku</mark></p>
+    <ol type="A">
+        <li>harimau</li>
+        <li>buaya</li>
+
+        <p style="background-color: aliceblue;">
+            <span style="color: blueviolet;">
+            aku suka hewan liar aku menjelajah gunung dan lautan untuk mencari para hewan liar yang tinggal di alam liar,</span> aku suka memeluk hewan yang berbulu lebat dan suka menjilat.
+            <br>
+            <p>aku adalah anak yang baik kepada semua makhluk dan aku suka menolong orang yang membutuhkan, aku suka menjadi orang yang baik hati, karena kata orang tua ku orang yang baik hati dan suka menolong akan masuk ke dalam surga dan menikmati banyak hal.
+            </p>
+        </p>
+
+    </ol>
+    <dl>
+        <dt>MANUSIA</dt>
+        <dd>manusia adalah seorang manusia</dd>
+    </dl>
+  </body>
+</html>
